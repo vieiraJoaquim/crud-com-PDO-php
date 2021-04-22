@@ -1,0 +1,3 @@
+<form action="POST" action="adicionar_action.php">
+    ...
+</form>
